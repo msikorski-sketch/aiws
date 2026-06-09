@@ -1,0 +1,12 @@
+node_modules/
+client/node_modules/
+client/dist/
+dist/
+*.log
+.DS_Store
+.env
+server/.env
+.claude/
+_icon_preview.png
+_icon32.png
+_kill.txt
